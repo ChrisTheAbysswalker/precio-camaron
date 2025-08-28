@@ -16,11 +16,11 @@ El modelo está implementado en **Python** usando librerías de ciencia de datos
 
 ## 📂 Estructura del proyecto
 📦 precio-camaron
-┣ 📄 precio_camaron.csv # Dataset con la información del camarón
-┣ 📄 main.py # Script principal (modelo de regresión polinómica)
-┣ 📄 requirements.txt # Dependencias del proyecto
-┣ 📄 README.md # Documentación
-┗ 📂 docs/ # Capturas de pantalla y gráficos
+- 📄 precio_camaron.csv # Dataset con la información del camarón
+- 📄 main.py # Script principal (modelo de regresión polinómica)
+- 📄 requirements.txt # Dependencias del proyecto
+- 📄 README.md # Documentación
+- 📂 docs/ # Capturas de pantalla y gráficos
 
 ---
 
