@@ -31,4 +31,3 @@ El modelo está implementado en **Python** usando librerías de ciencia de datos
   Regresion Polinomica: Comparacion entre mes y precio del camarón
   ![Grafica 3](docs/img2.png)
 
----
